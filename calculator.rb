@@ -2,3 +2,5 @@
 first_number = 16.2
 
 second_number = 23
+
+sum = first_number + second_number
